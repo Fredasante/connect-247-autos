@@ -103,19 +103,18 @@
 const products = [
   {
     id: 1,
-    name: "Shell Helix 15W-40",
+    name: "Mitasu",
     description:
-      "Shell Helix 15W-40 is a premium quality motor oil designed to ensure optimal engine performance in all driving conditions. It helps protect against wear, reduces oil consumption, and enhances the longevity of your vehicle’s engine. With advanced cleaning technology, this oil helps to keep your engine clean by preventing the build-up of harmful deposits, ensuring smooth operation for longer durations.",
-    image: "images/shell-helix-15w-40-1L.jpg",
-    overview: "Premium Multi-Grade Motor Oil",
-    volume: "1L",
+      "Mitasu is a premium synthetic motor oil designed to provide superior engine protection and performance. It is formulated with advanced additives to ensure optimal lubrication, reduce friction, and enhance fuel efficiency. Mitasu is suitable for a wide range of vehicles and driving conditions, making it an ideal choice for drivers who demand the best from their engines.",
+    image: "images/mitasu.png",
+    volume: "5L",
   },
   {
     id: 2,
     name: "Mobil 5W-30",
     description:
       "Mobil 5W-30 is a synthetic engine oil formulated to offer superior protection and efficiency for modern engines. It is designed to minimize wear and tear by providing excellent lubrication, even under extreme temperature conditions. This oil enhances fuel economy and contributes to longer engine life by reducing friction, which in turn leads to smoother and quieter engine operation. Perfect for cars that demand high-performance lubrication.",
-    image: "images/Mobil-1-Extended-5w-30.webp",
+    image: "images/Mobil-1-Extended-5w-30.jpg",
     volume: "5L",
   },
   {
@@ -123,7 +122,7 @@ const products = [
     name: "Toyota 5W-30",
     description:
       "Toyota 5W-30 is a high-performance motor oil specifically tailored for Toyota vehicles, but suitable for other makes as well. This oil provides excellent engine protection by reducing internal friction and wear, ensuring that your engine runs smoothly and efficiently. It is formulated to prevent sludge build-up and deposits, offering maximum protection even in harsh driving environments. Ideal for both new and older engines.",
-    image: "images/5w30-toyota.webp",
+    image: "images/Toyota-5W-30-5L.jpg",
     volume: "5L",
   },
   {
@@ -131,7 +130,7 @@ const products = [
     name: "Castrol Edge 5W-30",
     description:
       "Castrol Edge 5W-30 is an advanced full synthetic motor oil designed to unlock the maximum performance of your engine. Its fluid titanium technology provides outstanding strength and performance under pressure, ensuring that your engine remains protected even under heavy loads. This oil reduces friction and increases engine efficiency, making it perfect for high-performance and luxury vehicles. It also helps maintain peak performance across a variety of driving conditions, including cold starts and high temperatures.",
-    image: "images/castrol.webp",
+    image: "images/castrol.jpg",
     volume: "5L",
   },
   {
@@ -147,7 +146,7 @@ const products = [
     name: "Shell Helix HX-5",
     description:
       "Shell Helix HX-5 is a high-quality motor oil that ensures enhanced engine cleanliness and superior protection under all driving conditions. It is formulated with active cleansing technology to keep your engine running efficiently and prevent harmful deposits and sludge build-up.",
-    image: "images/shell-hx-5.avif",
+    image: "images/shell-4L.jpg",
     volume: "4L",
   },
   {
