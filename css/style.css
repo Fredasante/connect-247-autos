@@ -9666,7 +9666,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #e10107 !important;
+  color: #ffd333 !important;
 }
 
 a.text-primary:hover,
@@ -10128,6 +10128,6 @@ h6 {
 
 @media (max-width: 768px) {
   .logo {
-    width: 115px;
+    width: 110px;
   }
 }
