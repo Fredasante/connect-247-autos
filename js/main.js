@@ -154,7 +154,7 @@ const products = [
     name: "Petronas Xtreme 20W-50",
     description:
       "Petronas Xtreme 20W-50 is a durable multi-grade motor oil suitable for vehicles operating under tough conditions. It offers exceptional lubrication, reduces engine wear, and ensures consistent performance, even in high-temperature environments.",
-    image: "images/petronas extreme 20w-50.webp",
+    image: "images/petronas extreme 20w-50.jpg",
     volume: "5L",
   },
   {
@@ -178,7 +178,7 @@ const products = [
     name: "Honda Oil Filter",
     description:
       "The Honda Oil Filter (Part Number: 15400-PLM-A02) is a genuine OEM part that delivers exceptional filtration performance. It ensures your engine oil remains clean and free from debris, contributing to better engine health and performance.",
-    image: "images/Oil Filters/honda-oil-filter.webp",
+    image: "images/Oil Filters/honda-oil-filter.jpg",
     partNumber: "15400-PLM-A02",
   },
   {
@@ -202,14 +202,14 @@ const products = [
     name: "BOSCH Battery",
     description:
       "The BOSCH Battery is a high-performance automotive battery known for its reliability and durability. Designed to provide consistent power for modern vehicles, it ensures smooth starts and optimal electrical performance under various conditions.",
-    image: "images/bosch-battery.webp",
+    image: "images/bosch-battery.jpg",
   },
   {
     id: 14,
     name: "Power Jet Battery",
     description:
       "Power Jet Battery is a dependable and efficient battery designed for long-lasting performance. It offers excellent starting power and meets the needs of vehicles with high electrical demands.",
-    image: "images/power-jet-battery.webp",
+    image: "images/power-jet-battery.jpg",
   },
   {
     id: 15,
@@ -272,7 +272,7 @@ const products = [
     name: "Amari Brake Pads",
     description:
       "Amari Brake Pads offer premium braking performance, reducing wear and tear while maintaining smooth and quiet operation.",
-    image: "images/amari.webp",
+    image: "images/amari.jpg",
   },
   {
     id: 24,
