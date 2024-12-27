@@ -10120,7 +10120,7 @@ h6 {
 }
 
 .logo {
-  width: 180px;
+  width: 270px;
   height: 100%;
   object-fit: contain;
   border-radius: 10px;
@@ -10128,6 +10128,6 @@ h6 {
 
 @media (max-width: 768px) {
   .logo {
-    width: 105px;
+    width: 135px;
   }
 }
